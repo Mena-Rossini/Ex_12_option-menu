@@ -22,9 +22,12 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-**Program to print the text “optionmenu”.
-Developed by: Mena Rossini R
-Registration Number : 212222040099**
+**Program to print the text “optionmenu”.**
+
+**Developed by:** Mena Rossini R
+
+**Registration Number :** 212222040099
+
 
 
 ### activity_main.xml
@@ -57,6 +60,7 @@ Registration Number : 212222040099**
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 
 ### MainActivity.java
 ```
@@ -95,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+
 ### options_menu.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -119,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
         android:title="@string/bookmark" />
 </menu>
 ```
+
 
 
 ## OUTPUT:
